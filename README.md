@@ -21,7 +21,7 @@
 | ------------- |
 
 ```
-[<img src="https://img.shields.io/badge/Download-%20" height="30px"/>](README.md)
+[<img src="https://img.shields.io/badge/Download-%20?color=blue" height="30px"/>](README.md)
 ```
 
-[<img src="https://img.shields.io/badge/Download-%20?color=blue?" height="30px"/>](README.md)
+[<img src="https://img.shields.io/badge/Download-%20?color=blue" height="30px"/>](README.md)
