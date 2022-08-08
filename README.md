@@ -1,10 +1,10 @@
 # Testing bilingual readme files
 
 ```
-[En Francais](LESEZMOI.md)
+[en français](LISEZMOI.md)
 ```
 
-[En Francais](LESEZMOI.md)
+[en français](LISEZMOI.md)
 
 ```
 [<kbd>Download</kbd>](README.md)
